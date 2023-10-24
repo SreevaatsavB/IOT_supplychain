@@ -11,5 +11,8 @@ Applied sine and cosine transformations to capture cyclic trends in the data.
 Utilized MEstimateEncoder for categorical encoding of 'sku-id' and 'store-id.'
 Trained and tuned Random Forest and LightGBM Regressors to achieve accurate sales forecasts.
 
+# Main File:
+SupplyChainAssignment.ipynb is the main file which contains the code we wrote for this assignment.
+
 # Final Prediction:
-File is named as "sales_forecast_submission.csv" which contains the final outputs we got.
+"sales_forecast_submission.csv" is the output prediction file which contains the final outputs we got.
